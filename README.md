@@ -6,4 +6,4 @@ The code for the same is here: https://colab.research.google.com/drive/1kqGrIguj
 
 The results can be found in the directory.
 
-The mello directory contains the final results for the same and extracted contains extracted files from spotify.
+The final directory contains the final results for the same and extracted contains extracted files from spotify.
